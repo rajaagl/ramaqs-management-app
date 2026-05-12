@@ -1,6 +1,6 @@
 import { ReactNode } from "react";
 import {
-  ProjectStatus, Priority, TaskStatus,
+  type ProjectStatus, type Priority, type TaskStatus,
   statusLabels, priorityLabels, taskStatusLabels,
 } from "@/lib/mock-data";
 

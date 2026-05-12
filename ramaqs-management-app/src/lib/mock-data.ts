@@ -1,4 +1,3 @@
-// Données mock pour la démo RAMAQS Consulting
 
 export type ProjectStatus = "en_cours" | "planifie" | "en_pause" | "termine" | "a_risque";
 export type Priority = "faible" | "normale" | "haute" | "critique";
